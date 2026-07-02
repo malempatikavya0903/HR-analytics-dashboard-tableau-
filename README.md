@@ -8,7 +8,7 @@ This project is an interactive **HR Analytics Dashboard** developed using **Tabl
 
 ## 🖼️ Dashboard Preview
 
-![HR Analytics Dashboard](hr-analytics-dashboard.png)
+![HR Analytics Dashboard](HR-analytics-dashboard.png)
 
 ---
 
